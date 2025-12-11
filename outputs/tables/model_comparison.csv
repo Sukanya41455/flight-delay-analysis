@@ -1,0 +1,5 @@
+"Model","AUC","Accuracy","LogLikelihood"
+"ERGMM",0.629,0.9925,-0.0445
+"Independent Edge",0.5,0.9925,-0.0482
+"ERGM",0.4591,0.9925,-0.1733
+"SBM",0.3586,0.2366,-1.1936
